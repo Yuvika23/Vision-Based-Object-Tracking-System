@@ -1,7 +1,5 @@
 # 🤖 RoboEye – Vision-Based Object Tracking Robot
 
-### 🧠 Author: **Yuvika Gandhi**
-
 RoboEye is a **computer vision–based virtual robot** that detects and tracks colored objects in real time using a webcam.  
 It simulates **intelligent robotic movement** by identifying object positions, recognizing colors, and giving navigation instructions such as **“Move Left,” “Move Right,” “Move Up,”** or **“Move Forward.”**  
 
